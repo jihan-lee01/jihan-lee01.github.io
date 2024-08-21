@@ -113,7 +113,7 @@ analytics:
 # Site Author
 author:
   name             : "Jihan Lee"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/image/headshot.png"
   bio              : "Undergraduate Econ/CS @ Emory, Aspiring Data Analyst"
   location         : "Atlanta, GA"
   email            : "jihan.lee@alumni.emory.edu"
