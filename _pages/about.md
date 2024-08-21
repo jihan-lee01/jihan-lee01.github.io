@@ -5,5 +5,3 @@ share: true
 title: "About"
 permalink: /about/
 ---
-
-# Jihan Lee
