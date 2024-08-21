@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Jihan Lee"
-title_separator          : "-"
+title_separator          : 
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jihan Lee"
 description              : "Jihan's personal portfolio website"
@@ -113,8 +113,8 @@ analytics:
 # Site Author
 author:
   name             : "Jihan Lee"
-  avatar           : "/assets/image/headshot.png"
-  bio              : "Undergraduate Econ/CS @ Emory, **Aspiring Data Analyst**"
+  avatar           : "/assets/images/headshot.png"
+  bio              : "Undergraduate Econ/CS @ Emory, **Aspiring Data Scientist**"
   location         : "Atlanta, GA"
   email            : "jihan.lee@alumni.emory.edu"
   links:
