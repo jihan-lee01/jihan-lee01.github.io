@@ -3,7 +3,7 @@ title: "Résumé"
 permalink: /resume/
 ---
 
-<iframe src="../assets/resume.pdf", width="100%", height="600px">
+<iframe src="../assets/resume.pdf" width="100%" height="600px">
     <a href="../assets/resume.pdf">Download PDF</a>
 </iframe>
 
