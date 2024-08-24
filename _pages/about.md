@@ -15,4 +15,4 @@ Here's a list of things that will help you understand me better:
 - 🥃: Whiskey learner. Mostly Scotch, but also enjoy some bourbons.
 - 📷: Enjoy taking pictures with my phone, film camera, and digital camera.
 - 🐈: Cat lover.
-- ✈️: Love traveling. Have spent more than 15 days on flights. Been to Australia (Brisbane, Sydney), Bahamas, Canada (Montréal, Québec), China (Beijing, Guangzhou), Guam, Hong Kong, Japan (Tokyo), Singapore, United Kingdom (London, Manchester), and a number of cities in the US (Boston, Chattanooga, Chicago, Miami, New Orleans, New York, San Francisco, Savannah)
+- ✈️: Love traveling. Have spent more than 15 days on flights and been to more than 15 cities in 9 countries.
